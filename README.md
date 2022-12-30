@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LilJonas
-- 👀 I’m interested in learning new things on the web development field and work on creative projects 
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on projects that has something to do with Front-End
+- 👀 I’m interested in learning new things on the cyber security field and work on creative projects 
+- 🌱 I’m currently learning system's administration networks and cyber security
+- 💞️ I’m looking to collaborate on projects that has something to do with cyber security
 - 📫 How to reach me, email : oumlil.ynss@gmail.com
 
 <!---
