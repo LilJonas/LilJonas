@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LilJonas
 - 👀 I’m interested in learning new things on the cyber security field and work on creative projects 
-- 💞️ I’m looking to collaborate on projects that are related to Pen-testing
+- 💞️ I’m looking to collaborate on projects that are related to offensive security
 - 📫 How to reach me, email : oumlil.ynss@gmail.com
 
 <!---
